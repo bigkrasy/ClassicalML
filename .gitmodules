@@ -1,0 +1,6 @@
+[submodule "GridForecast"]
+	path = GridForecast
+	url = https://github.com/bigkrasy/GridForecast.git
+[submodule "PowerGuard"]
+	path = PowerGuard
+	url = https://github.com/bigkrasy/PowerGuard.git
